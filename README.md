@@ -1,6 +1,9 @@
 # Legal-Knowledge-Graph
 This is the repository for the Final Year Project -- Knowledge Graph Construction on legal documents. 
 
+Current Progress:
+  1. Built up an naive KG with stanza. The code is in folder 'trials for NER'.
+
 Current Problem: 
   1. Focus of our data. The dataset we obtained from the US Supreme Court are cases, rather than Contracts. In the pre-processed data, each case is separated into several parts, e.g., description, opion of the court, ...
   2. Lack of annotated  dataset for NER in legal domain. Thus is't hard to fine-tune the legal-bert to do sequence labelling.
