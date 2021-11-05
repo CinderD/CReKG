@@ -1,0 +1,2 @@
+Below is the link to the public annotated contract data
+http://nlp.cs.aueb.gr/software_and_datasets/CONTRACTS_ICAIL2017/index.html
