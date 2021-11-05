@@ -1,7 +1,8 @@
 # Legal-Knowledge-Graph
 This is the repository for the Final Year Project -- Knowledge Graph Construction on legal documents. 
 
-Update on 6/11: Seems like CUAD is already the best dataset to choose. Even though it is annotated based on understanding the contract, we can still find entities based on the annotated sentances. Further work may focus on the entity extraction on CUAD annotated sentances.
+Update on 6/11: 
+  Seems like CUAD is already the best dataset to choose. Even though it is annotated based on understanding the contract, we can still find entities based on the annotated sentances. Further work may focus on the entity extraction on CUAD annotated sentances.
 
 
 Current Progress:
