@@ -6,8 +6,7 @@ Update on 10/11:
 
 
 Current Progress:
-  1. Built up a naive KG with stanza. The code is in folder 'trials for NER'.
-
+  1. Handled the CUAD dataset, focused on the excel files since categories have been annotated.
 Current Problem: 
   1. Focus of our data. The dataset we obtained from the US Supreme Court are cases, rather than Contracts. In the pre-processed data, each case is separated into several parts, e.g., description, opion of the court, ...
   2. Lack of annotated  dataset for NER in legal domain. Thus is't hard to fine-tune the legal-bert to do sequence labelling.
