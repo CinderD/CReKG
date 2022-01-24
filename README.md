@@ -1,8 +1,8 @@
 # Legal-Knowledge-Graph
 This is the repository for the Final Year Project -- Knowledge Graph Construction on legal documents. 
 
-Update on 10/11: 
-  1. Utilized CUAD's "Governing_Law" dataset to built up a simple KG
+Update on 25/01: 
+  1. Finished the demo structure of whole FYP
 
 
 Current Progress:
