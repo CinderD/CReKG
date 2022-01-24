@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <title>LCKG</title>
+        <style type="text/css">
+            #viz{
+                width: 900px;
+                height: 700px;
+
+            }
+
+        </style>
+        <script src="https://rawgit.com/neo4j-contrib/neovis.js/master/dist/neovis.js"></script>
+    </head>
+    <script>
+        function draw(){
+            var config ={
+                container_id:"viz",
+                server_url:"bolt://localhost:11003",
+                server_user:"neo4j",
+                server_password:"LCKG",
+                labels:{
+                    "Source": {
+                        "source": "source",
+                    },
+                    "Target": {
+                        "target": "target",
+                    }
+                },
+                relationships: {
+                    "LINK_TO": {
+                        "thickness": "count",
+                        "caption": true
+                    }
+                },
+                initial_cypher: "MATCH (n)-[r:LINK_TO]->(m) RETURN *"
+ 
+            }
+            var viz = new NeoVis.default(config);
+            viz.render();
+            console.log(viz);
+        }
+    </script>
+    <body onload="draw()">
+        <div id="viz"></div>
+    </body>
+</html>
