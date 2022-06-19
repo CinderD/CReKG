@@ -1,0 +1,419 @@
+,source,target,edge
+0,Ma,Any,Assign
+1,Roger,Right,Assign
+2,Licensee,Otherwise  Any,Assign
+3,Licensee,Right,Have
+4,Licensee,Any,Sublicense
+5,Party,Right,Assign
+6,Party,Agreement,Assign
+7,Attempt,Agreement,Be Null
+8,Party,Agreement,Assign
+9,Theother  Party,Written  Notice,Given
+10,Death,Eight 8) Week,Terminated By
+11,Below  Musclepharm,Otherwise  Right,Assign
+12,Party,Otherwise  Right,Voluntarily
+13,License,Right,Permitted
+14,Such  Party,Agreement,Obtain In
+15,Party,Otherwise  Agreement,Assign
+16,Exxonmobil,Agreement,Assign
+17,Purported  Assignment,Right,Understood
+18,Distributor,License  Transfer,Sub-
+19,Supplier,Notice,Give
+20,Distributor,Contract,Sub
+21,Party,Otherwise  Any,Assign
+22,Distributor,Any,Assign
+23,Distributor,Duty,Assign To
+24,Party,Right,Assign
+25,Hydraspin,Agreement,Assign
+26,Such Affiliated Company,A,Provided
+27,Such  Assignment,Assigning Party,Release
+28,Party,Agreement,Assign
+29,Party,Agreement,Assign
+30,Assignment,Consent,Require
+31,Member,Article Viii,Terminate In
+32,Investor,Right,Withheld
+33,Party,Right,Assign
+34,Village Media Company,Otherwise  Any,Assign
+35,Vyera,Agreement,Assign
+36,Other  Assignment,Financially  Obligation,Understood
+37,Company,Right,Sublicense To
+38,Agreement,Right,Binding Upon
+39,Party,Otherwise  Any,Assign
+40,Party,Right,Assign
+41,Agreement,Respective  Assign,Binding Upon
+42,Party,Right,Have
+43,Dexcel,Agreement,Considered A
+44,Party,Agreement,Assign
+45,That,Term,Be Void
+46,Party,Right,Ha
+47,Programmer,Agreement,Assign
+48,Party,Right,Assign
+49,Party,Agreement,Assign
+50,Only  Supplier,Agreement,Assign
+51,Customer,Agreement,Assign
+52,Unreasonably  Merger,Comparable  Assignment,Provided
+53,Party,Such  Assignment,Desire
+54,Mmt,Sublicense,Grant
+55,Supplier,Agreement,Assign
+56,Cht,Third  Party,Use Third
+57,Party,Right,Provided
+58,Channel Partner,Agreement,Assign
+59,Agreement,Consent  Transfer,Assigned
+60,Party,Agreement,Assign
+61,Newegg,Right,Have
+62,Manufacturer,Any,Transfer
+63,Customer,Freely  Right,Transfer
+64,Transfer,Assignment,Deemed
+65,Seller,All,Assigned In Whole
+66,Seller,Agreement,Assigned
+67,Party,Agreement,Assign
+68,Licensed  User,Agreement,Be Void
+69,Licensee,Otherwise  Agreement,Assign
+70,Agreement,Agreement,Omitted
+71,Agreement,Agreement,Be Terminable
+72,Licensee,Part,Sublicense
+73,Company,Agreement,Assign
+74,Acsi,Agreement,Assign
+75,Party,Agreement,Assign
+76,Party,Right,Assign
+77,Herein  Party,Right,Transfer
+78,Party,Agreement,Assign
+79,Party,Agreement,Assign
+80,Attemptto,Agreement,Assign
+81,However  Verticalnet,Agreement,Transfer
+82,However  Party,Agreement,Provided
+83,Herein  Party,Right,Transfer
+84,Assigning Party,Notice,Assigned
+85,Party,Otherwise  All,Assign
+86,Party,Right,Assign
+87,Party,Right,Have
+88,Network Affiliate,Any,Assign
+89,Agreementshall,Expressly  Obligation,Be Assignable
+90,Party,Agreement,Assign
+91,Berkshire,Agreement,Assign
+92,Company,Licensed Mark,Sublicense
+93,Party,Agreement,Assign
+94,Party,Any,Assign
+95,Party,Right,Assign
+96,Party,Agreement,Assign
+97,Developer,Obligation,Assign
+98,15.2.9,Mutatis Mutandi,Apply
+99,I  Sale,Freely  Any,Entitled
+100,Following  Event,Default,Constitute
+101,Dr. Murray,Unique  Qualification,Has Unique
+102,Unreasonably  Party,Such  Assignment,Sell
+103,Abbvie,One,Use
+104,Party,Right,Assign
+105,Developer,Agreement,Assign
+106,T&B,Third  License,Grant
+107,Party,Agreement,Assign
+108,Party,Agreement,Assign
+109,However  Liquidmetal,Right,Transferred
+110,However  Licensor,Agreement,Assign
+111,Hereto  Party,Written  Consent,Sell
+112,Sfj,Otherwise  Agreement,Sell
+113,Sanofi,Right,Have
+114,Party,Agreement,Assign
+115,Sanofi,Agreement,Assign
+116,Party,Agreement,Assign
+117,Unreasonably  Sekisui,Agreement,Assigned
+118,Licensee,Right,Ha
+119,Licensor,Hereunder,Assigned
+120,Party,Any,Assign
+121,Licensee,Right,Have
+122,Licensee,Any,Sublicense
+123,Party,Right,Assign
+124,Party B,Right,Assign
+125,Herein  Party,Right,Have
+126,Other  Party,Which,I
+127,Party,Right,Have
+128,Purported  Assignment,Force,Be Null
+129,Distributor,Right,Have
+130,Staar,Any,Provided
+131,Other  Party,Acces,Included In
+132,Other  Party,Agreement,Be Null
+133,Arizona,Any,Assign
+134,Third Party Contractor,Right,Permitted
+135,Licensee,Purported  Assignment,Be Void
+136,Licensor,Hereunder,Assigned
+137,Papa John,-,Wish
+138,Only  Abg,Approval Therefor,Done If
+139,You,Transfer,Make
+140,Ef,Agreement,Assign
+141,Distributor,Right,Assign
+142,Customer,Right,Have
+143,Herein  Party,Obligation,Assign
+144,However  Premier,Agreement,Provided
+145,Consultant,Portion,Subcontract
+146,Party,Performance,Delegate
+147,Consultant,Right,Sell
+148,Agreement,Right,Is Personal
+149,Consented  Assignment,Breach,Be Void
+150,Transferwithout,Breach,Be Void
+151,Party,Otherwise  Right,Assign
+152,Any,All,Entitled
+153,Agreement,Power,Be
+154,Lmg,Any,Subcontract
+155,You,Directly  Transfer,Make
+156,Agreement,Respective  Chapter,Inure To
+157,It,Notice,Permitted By
+158,Provider,Otherwise  Agreement,Assign
+159,Agreement,Which,Provided
+160,Sub Advisor,Right,Assign
+161,Cro,Part,Subcontract
+162,Cro,Right,Assign
+163,Party,Agreement,Assign
+164,Right,Hereto  It,Assign
+165,However  Party,Hereto Collateral Assignment,Make
+166,Service Recipient,Right,Assign
+167,Service Provider,Right,Assign
+168,Hereof Subject Tda,Affiliated  Parent,Assigned By
+169,Party,Any,Assign
+170,Iso,Agreement,Terminate
+171,Theassigning  Party,Agreementother,Be Null
+172,Consent,Hereunder,Assigned
+173,Sponsor,Right,Have
+174,Party,Right,Assign
+175,Party,Agreement,Assign
+176,Party,Agreement,Assign
+177,Attempt,Other,Be Null
+178,Party,Agreement,Sell
+179,Consent,Assignment,Agreement
+180,Party,Any,Assign
+181,Party,Agreement,Assign
+182,Attempt,Other,Be Null
+183,Party,Agreement,Assign
+184,Contractor,Agreement,Assign
+185,Party,Right,Assign
+186,Thethird Party,Written  Notice,Relieved Of
+187,I  Company,Assignment,Assigned By
+188,And(B,All,Assign
+189,Party,-,Sell
+190,Further  Assignee,Agreement,Soassigned
+191,Agreement,Power,Be
+192,Customer,Financial  Capital,Assigned By
+193,Customer,Freely  Agreement,Assigned By
+194,Party,Right,Assign
+195,Msl,All,Assign
+196,Msl,Anyright,Assign
+197,Msl,Agreement,Assign
+198,Party,Hereto  Right,Assign
+199,Party,Agreement,Assign
+200,Party,Agreement,Assign
+201,Mcdatum,Agreement,Assign
+202,Nat,Written Withoutmedianet Group Consent,Assign
+203,Consequently  Agreement,All,Assigned
+204,Party,Agreement,Assign
+205,Party,Right,Transfer
+206,12.2  Party,Right,Assign
+207,Party,Respective  Right,Assign
+208,Party,Agreement,Assigned By
+209,Bellicum,Written  Consent,Agree
+210,That,All,Provided
+211,Fcc,Right,Assign
+212,Party,Termination,Agree
+213,Unauthorized  Assignment,Totally  Contract,Assign
+214,Assignee,Financial  Capacity,Ha
+215,Assignee,Crude,Ha
+216,Party,Agreement,Sell
+217,Party,Right,Assign
+218,However  Right,Assign,Provided
+219,Otherwise  Shipper,Agreement,Assign
+220,Green Cros,Sublicense,Grant
+221,Party,Right,Assign
+222,Beforehand Party B,Cooperation Busines,Transfer
+223,Party B,Breaching  Liability,Deemed A
+224,Party,Right,Assign
+225,Party,Only  Activity,Subcontract
+226,Bli,Otherwise  Right,Sublicense
+227,Party,Agreement,Withheld
+228,Below Nantz Communication,Any,Assign
+229,Right,Company,Hereunder
+230,Party,Right,Assign
+231,Agreement,Right,I
+232,Company,Otherwise  Affiliate,Subcontract With
+233,Company,Affiliate,Use
+234,However  Janssen,Agreement,Assigned
+235,However  Party,Any,Assign
+236,King,Otherwise  Any,Assign
+237,Agreement,Herein,Be Assignable
+238,Franchise,Area,Granted
+239,Right,Right,Hereunder
+240,You,Such  Right,Grant
+241,Legal  Which,Directly  Interest,Sell
+242,Purported  Assignment,Material  Breach,Be Null
+243,Disposition,Interest,Transfer
+244,Who,B  Termination,Terminated At
+245,Limited Power,Respective  Successor,Bind
+246,However  Party,Agreement,Assigned By
+247,Party,Right,Have
+248,Nvo,Right,Have
+249,However  Party,Unreasonably  Consent,Provided
+250,Agreement,Respective  Assign,Binding Upon
+251,Which,Such  Conduct,Assigned By
+252,Unreasonably  Party,Agreement,Assigned By
+253,Assignment,Consent,Require
+254,Agency,Agreement,Assign
+255,Party,Otherwise  Any,Assign
+256,Party,Otherwise  Any,Be Void
+257,Agreement,Respective  Assign,Provided
+258,Md Anderson,Any,Subcontract
+259,Party,Agreement,Assign
+260,Party,Right,Transfer
+261,Party,Otherwise  Right,Rights Under
+262,Subcontractor,Right,Assign
+263,Service,Any,Are Of
+264,License,Hereunder,Is Specific
+265,Intricon,Any,Assign
+266,Dynamic  Hearing,Any,Assign
+267,Lbio,Agreement,Assign
+268,Md Anderson,Otherwise  Consultant,Acknowledge
+269,Party,Agreement,Assign
+270,Case,Any,Be
+271,Company,Any,Subcontract
+272,Party,Otherwise  Any,Assign
+273,Party,Otherwise  Any,Binding Upon
+274,Party,Any,Assign
+275,Party,Right,Have
+276,Unauthorized  Attempt,Portion,Be Void
+277,Ontochem,One  Subcontractor,Engage
+278,Party,Otherwise  Agreement,Assign
+279,However  Party,Agreement,Assigned
+280,Party,Agreement,Assign
+281,Agreement,Agreement,Be Assignable
+282,Party,Right,Assign
+283,None,Any,Assign
+284,However  Party,Legal  Assign,Binding Upon
+285,Party,Whole,Assign
+286,However  Cere,Right,Have
+287,Party,Right,Have
+288,However  Cere,Right,Have
+289,Party,Right,Have
+290,Neither,Hereto  Right,Assign
+291,Arizona,Any,Assign
+292,Respective  Successor,Assign,Binding Upon
+293,Herc,Obligation,Assign
+294,Party,Otherwise  Any,Sell
+295,Party,Ip Agreement,Assign
+296,Applicable Seller Party,Licensed  Ip,Cause
+297,2.1(D  Purchaser,Applicable Purchaser Assignee,Cause
+298,Party,Agreement,Assign
+299,However  Agreement,Omitted Alliance Agreement,Assigned Ordelegated
+300,Distributor,Right,Assign
+301,Distributor,Agreement,Assign
+302,Assignment,Product,Be
+303,Distributor,All,Assign
+304,Agreement,Product,I
+305,Other  Assignmentby,Written  Consent,Require
+306,"Intheeventeitherparty(A)Becomesadjudicated Insolvent,(B",Busines,Discontinue
+307,Distributor,Itsbusiness Asset,Omitted
+308,Shipper,Right,Have
+309,Assignment,Written  Notice,Be Effective
+310,Party,Contract,Assigned In Whole
+311,Party,Agreement,Assign
+312,Adams Golf,Right,Have
+313,Ki  Inc.May,Right,Assign
+314,Right,Company,Used
+315,Company,Agreement,Beentitled
+316,Tpc,Consolidated Right,Have
+317,Right,Company,Used
+318,Pey Dirt,Right,Have
+319,Party,Agreement,Assign
+320,Party,Agreement,Assign
+321,Purported  Assignment,Written  Consent,Be Null
+322,You,Interest,Transfer
+323,Noprincipalshalldirectlyor,Legal Orbeneficialequity Interest,Assign
+324,17.1(K).If  Bkc,Right,Be Void
+325,You,Franchise,Understand
+326,Purported  Assignment,Written  Consent,Be Null
+327,You,Further  That,Covenant
+328,You,Reason,Intend
+329,You,Interest,Agree
+330,You,Interest,Considered In
+331,Transfer,Breach,Constitute
+332,Proposed New Owner,Together  Transfer,Met Before
+333,You,Amount,Pay
+334,Proposed New Owner,Initial Training Program;(D,Be Responsible
+335,Me,Installment Payment,Enter Into
+336,Proposed New Owner,All,Agree
+337,You,Performance,Require
+338,You,Properly  Opportunity,Offered
+339,However  Assignment,Written  Notice,Be Effective
+340,Customer,Agreement,Withheld
+341,Party,Agreement,Assign
+342,Host,Right,Have
+343,Party,Any,Assign
+344,Party,Agreement,Assign
+345,Party,Agreement,Assign
+346,Customer,Agreement,Assign
+347,Hereto  Party,Agreement,Transfer
+348,However  Party,Agreement,Provided
+349,Purported  Assignment,Interest,Be Void
+350,However  Apollo,Agreement,Assign
+351,Attempt,Agreement,Withheld
+352,Columbia,Consent,Deemed Unreasonable
+353,Party,Any,Assign
+354,Bachem,Agreement,Assign
+355,Bachem,Any,Assign
+356,Iac,First  Approval,Notify
+357,Party,Right,Assign
+358,Party,Any,Assign
+359,Party,Right,Have
+360,Operator,Assignment,Make
+361,Owner Shallnot,Assignment,Make
+362,Licensee,Licensed  Program,Sell
+363,Licensee,Right,Agree
+364,Licensee,Agreement,Assign
+365,License Right,Agreement,Be Void
+366,Sparkling,Omitted>(C)Not  Agreement,Assign
+367,Party,Agreement,Assign
+368,Service Provider,Pledge,Be Null
+369,Assigningparty,Groupmaydecidethat Theassigningpartywill Notremainjointlyandseverallyliablewiththeassigneefortheperformanceofthisagreement,Provided
+370,Party,Thewhole,Withheld
+371,Party,Any,Assign
+372,Such  Assignment,Right,Entitled
+373,Customer,Rights Orobligation,Assign
+374,Company,Right,Sell
+375,Operator,Assignment,Make
+376,Owner,Assignment,Make
+377,Otherwise  Party,Agreement,Assign
+378,Hemispherx,Agreement,Assigned
+379,Event,Any,Mean
+380,10.6  Monsanto,Right,Have
+381,Such  Assignee,11.8  >,Be Subject
+382,Agent,Right,Transfer
+383,Party,Agreement,Assign
+384,Agreement,Party,Inure To
+385,Assignment,Party,Inure To
+386,20.2  Party,License,Subject To
+387,Surgical,Agreement,Assign
+388,Party,Agreement,Assign
+389,Party,Agreement,Assign
+390,Nothing,Right,Binding Upon
+391,Party,Agreement,Assign
+392,Attempt,Agreement Otherthan,Be Null
+393,Party,Right,Bindingupon
+394,22  Party,Agreement,Assign
+395,Unreasonably  Ticket,Agreement,Assigned By
+396,Agreement,Any,Is Personal
+397,Detto,Any,Assign
+398,Agreement,Respective  Successor,Bind
+399,Reseller,Right,Acknowledge
+400,Unreasonably  Reseller,Agreement,Assign
+401,Diversinet,Agreement Atany Agreement Time,Assign
+402,Licensor,Any,Subcontract
+403,Party,Any,Transfer
+404,However  Party,Agreement,Provided
+405,Unreasonably  Party,Right,Assigned
+406,Party,Supply Agreement,Assign
+407,Agreement,Right,Be Assignable
+408,Party,Other  Party,Be Void
+409,Healthgate,Whole,Transfer
+410,Party,Development Agreement,Assign
+411,Which,Duty,Be Voidable
+412,Which,Duty,Be Voidable
+413,However  Licensor,Agreement,Assign
+414,"15,000).The Option",Fifteen Thousand,Exceed
+415,Attempt,Option,Be Void
+416,Customer,Third Party Acces,Agree
+417,Of  Asset,Agreement,Said
